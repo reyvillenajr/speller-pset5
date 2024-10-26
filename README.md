@@ -1,4 +1,4 @@
-# speller-pset5
+# speller-pset5(CS50 Project)
 NOTE: Copying this data and using it for your submission will breach CS50's academic honesty policy (https://cs50.harvard.edu/x/2020/honesty/). Make sure you learn the material and provide the solution yourself. It's worth it!
 
 This is my solution for the CS50 speller problem set, using C. https://cs50.harvard.edu/x/2020/psets/5/speller/ This problem set required implementing a program that spell-checks a file (from a list of words, i.e., the dictionaries provided by CS50).
